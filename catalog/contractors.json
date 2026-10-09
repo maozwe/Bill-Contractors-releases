@@ -1,0 +1,11 @@
+{
+  "updatedAt": "2026-10-09T20:12:02.824Z",
+  "contractors": [
+    {
+      "id": "340e7d10-f30c-4307-b562-58baa904fd91",
+      "name": "דחפורי הנגב",
+      "dayPrice": 2300,
+      "halfDayPrice": 1300
+    }
+  ]
+}
