@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T07:10:27.280Z",
+  "updatedAt": "2026-10-10T07:10:33.835Z",
   "contractors": [
     {
       "id": "67cbc58a-07d9-4df0-8f08-d10c84df37fe",
@@ -7,7 +7,8 @@
       "dayPrice": 2500,
       "halfDayPrice": 1000,
       "projects": [
-        "אופקים"
+        "אופקים",
+        "שדרות"
       ]
     }
   ]
