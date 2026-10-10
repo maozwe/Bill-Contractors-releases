@@ -1,11 +1,12 @@
 {
-  "updatedAt": "2026-10-10T06:35:42.704Z",
+  "updatedAt": "2026-10-10T07:10:18.279Z",
   "contractors": [
     {
-      "id": "796bee90-8227-4e89-b267-e41c9b482d76",
-      "name": "אופקים",
+      "id": "67cbc58a-07d9-4df0-8f08-d10c84df37fe",
+      "name": "מעוז",
       "dayPrice": 2500,
-      "halfDayPrice": 1300
+      "halfDayPrice": 1000,
+      "projects": []
     }
   ]
 }
