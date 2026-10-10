@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-09T20:12:02.824Z",
+  "updatedAt": "2026-10-10T06:35:42.704Z",
   "contractors": [
     {
-      "id": "340e7d10-f30c-4307-b562-58baa904fd91",
-      "name": "דחפורי הנגב",
-      "dayPrice": 2300,
+      "id": "796bee90-8227-4e89-b267-e41c9b482d76",
+      "name": "אופקים",
+      "dayPrice": 2500,
       "halfDayPrice": 1300
     }
   ]
